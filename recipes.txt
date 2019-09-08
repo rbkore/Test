@@ -3,4 +3,7 @@ kheer
 pasta
 Chicken
 
+
+Beer 
+Pizza
 Thank you!
